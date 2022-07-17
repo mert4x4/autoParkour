@@ -1,0 +1,11 @@
+name: autoParkour
+main: autoParkour.Main
+version: 1.0
+description: auto generated parkour
+api-version: 1.14
+
+commands:
+  parkourInit:
+    description: inits parkour
+  parkourQuit:
+    description: quits parkour
